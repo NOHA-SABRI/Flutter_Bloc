@@ -1,5 +1,3 @@
-import 'package:flutter/material.dart';
-
 class Character {
   late int charId;
   late String name;
